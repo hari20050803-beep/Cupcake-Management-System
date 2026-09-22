@@ -1,0 +1,8 @@
+# Copy this file to database.properties and fill in your own MySQL details.
+# The application also accepts the environment variable SCS_DB_PASSWORD,
+# which overrides db.password so the password need not be stored on disk.
+db.host=127.0.0.1
+db.port=3306
+db.name=sweet_cupcake_shop
+db.user=root
+db.password=CHANGE_ME

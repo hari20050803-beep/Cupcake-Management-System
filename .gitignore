@@ -1,0 +1,20 @@
+# Build output
+target/
+*.class
+
+# Local database settings (copy config/database.properties.example)
+config/database.properties
+
+# Runtime data files, created and seeded on first run
+data/
+
+# IDE / OS
+nbproject/private/
+nb-configuration.xml
+nbactions.xml
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
